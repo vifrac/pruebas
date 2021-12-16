@@ -1,0 +1,24 @@
+heroku
+0. Crear cuenta en heroku
+1. inst heroku
+- crear un app con ruby / ubicarse en la carpeta de la app
+2. heroku login (local)
+3. git init
+4. heroku create
+5. git status
+6. git add .
+7. git status
+8. git commit -m "cargando git-heroku"
+9. git push heroku master
+
+git 
+info: https://github.com/volta2016/resumen_estudios/blob/master/resumen%20estudio.txt
+
+1. crear cuenta en github
+2. iniciar secion y crear un repo
+3. git remote add origin https://github.com/vifrac/pruebas.git
+4. git remote -v
+5. git push -u origin master
+
+
+encontrar letras dentro de array
